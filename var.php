@@ -23,7 +23,7 @@ $cyan = "\e[36m";
 $bold   = "\e[1m";
 function redhawk_banner(){
   echo "\e[91;1m
-                                          😊jangan disalahgunakan😊
+                                          
                                                               .  .  .  .
                                                               .  |  |  .
                                                            .  |        |  .
@@ -36,10 +36,10 @@ function redhawk_banner(){
   ██║  ██║███████╗██████╔╝   ###     ###   @@@     @@@     \      \/      /    |   |\   \
   ╚═╝  ╚═╝╚══════╝╚═════╝    ###     ###   @@@     @@@      \____/\/\____/     |___| \___\
                                                                 |0\/0|
-         
-                                   1:nomor WhatsApp saya:+6283850540570 
-                                   2:akun Instagram saya:Rizky.0_o
-                                   3:kalau ada bak bisa lapor ke Instagram saya
+  1: jangan disalahgunakan😊      
+  2:nomor WhatsApp saya:+6283850540570 
+  3:akun Instagram saya:Rizky.0_o
+  4:kalau ada bak bisa lapor ke Instagram saya
 \e[32m
   \n";
 }
