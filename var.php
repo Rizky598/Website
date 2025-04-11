@@ -23,22 +23,8 @@ $cyan = "\e[36m";
 $bold   = "\e[1m";
 function redhawk_banner(){
   echo "\e[91;1m
-           All In One Tool For\e[36m Information Gathering\e[91m And\e[32m Vulnerability Scanning\e[91m
-                                                              .  .  .  .
-                                                              .  |  |  .
-                                                           .  |        |  .
-                                                           .              .
-                                              @@@@@      . |  (\.|\/|./)  | .   ___   ____
-  ██████╗ ███████╗██████╗    ###     ###    @@@@ @@@@    .   (\ |||||| /)   .  |   | /   /
-  ██╔══██╗██╔════╝██╔══██╗   ###     ###   @@@@   @@@@   |  (\  |/  \|  /)  |  |   |/   /
-  ██████╔╝█████╗  ██║  ██║   ###########   @@@@@@@@@@@     (\             )    |       /
-  ██╔══██╗██╔══╝  ██║  ██║   ###########   @@@@@@@@@@@    (\ \e[93m Ver  2.0.0\e[91m  /)   |       \
-  ██║  ██║███████╗██████╔╝   ###     ###   @@@     @@@     \      \/      /    |   |\   \
-  ╚═╝  ╚═╝╚══════╝╚═════╝    ###     ###   @@@     @@@      \____/\/\____/     |___| \___\
-                                                                |0\/0|
-         {C} Coded By - R3D#@X0R_2H1N A.K.A Tuhinshubhra         \/\/
-                                                                  \/ \e[97m [$] Shout Out - You ;)
-\e[32m
+           All In One Tool For\e[36m Information Gathering\e[91m And\e[32m Vulnerability Scanning\e[91
+Sh\e[32m
   \n";
 }
 ?>
