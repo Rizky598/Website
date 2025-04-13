@@ -1,12 +1,5 @@
-# Bom-WhatsApp
-1: Script termux fairing WhatsApp 🎯💯
-
-2: Tools Spam Pairing Whatsapp using
-
-3: Javascript
-
-4: and Nodejs
-
+# hack website
+script yang dibuat khusus untuk mendeteksi kelemahan satu website😊
 =======≠======≠===================
 <div align="center">
   <p>
