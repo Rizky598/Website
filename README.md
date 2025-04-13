@@ -1,45 +1,34 @@
-# CCTV
-CCTV yang sekarang lagi hidup🎯📸
-# Akses_CCTV
-Welcome
---------|
-![GIF](https://media1.tenor.com/m/PChmGbfH4r8AAAAd/tokyo-ghoul-ken-kaneki.gif)
-# 👏 WELCOME BRO
-# 🌿 MY PROFIL
-- Name = Rizky
-- Age  = 16 years
-- Address = Indonesia, Padang daerah Sijunjung😊
+# Bom-WhatsApp
+1: Script termux fairing WhatsApp 🎯💯
 
-# 🎯 Social Media
-- Tiktok
+2: Tools Spam Pairing Whatsapp using
+
+3: Javascript
+
+4: and Nodejs
+
+=======≠======≠===================
+<div align="center">
+  <p>
+    <img src="123.jpg" width="240">
+    </p>
+  
+Whatsapp Group
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CZcMAG9LrF9KEPyKfGsmQO)
+
+grup komunitas hacker
+
+==================================
+masukkan aja script yang di bawah untuk script termux😊
+
+# Command In Termux😊
 ```
-https://tiktok.com/@.rizky292
-```
-- Instagram
-```
-https://t.me/Rizky.0_o
-```
-
-ya untuk mengakses cctv publik
-
-# Cara install bahasn
-
-apt update && apt upgrade
-
-pkg install python
-
-pkg install figlet
-
-pkg install ruby
-
-gem install lolcat
-
+pkg update && pkg upgrade
 pkg install git
-
-pip install requests mechanize bs4
-
-git clone https://github.com/Rizky-FU/CCTV.git
-
-cd CCTV
-
-ruby cctv.rb
+pkg instal npm
+git clone https://github.com/Rizky598/Bom-WhatsApp
+cd Bom-WhatsApp
+npm install
+npm start
+```
