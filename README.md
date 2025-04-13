@@ -3,7 +3,7 @@ script yang dibuat khusus untuk mendeteksi kelemahan satu website😊
 =======≠======≠===================
 <div align="center">
   <p>
-    <img src="123.jpg" width="240">
+    <img src="pop.jpg" width="240">
     </p>
   
 Whatsapp Group
